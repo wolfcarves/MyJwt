@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "IHpFJx/wkUk=",
+  "dgSpecHash": "kPxLDDlpX1M=",
   "success": true,
   "projectFilePath": "C:\\Users\\wolfc\\Desktop\\App-Security\\MyJwt\\MyJwt.csproj",
   "expectedPackageFiles": [
@@ -15,6 +15,7 @@
     "C:\\Users\\wolfc\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.0.1\\microsoft.identitymodel.tokens.8.0.1.nupkg.sha512",
     "C:\\Users\\wolfc\\.nuget\\packages\\microsoft.openapi\\1.6.22\\microsoft.openapi.1.6.22.nupkg.sha512",
     "C:\\Users\\wolfc\\.nuget\\packages\\swashbuckle.aspnetcore\\7.3.1\\swashbuckle.aspnetcore.7.3.1.nupkg.sha512",
+    "C:\\Users\\wolfc\\.nuget\\packages\\swashbuckle.aspnetcore.annotations\\7.3.1\\swashbuckle.aspnetcore.annotations.7.3.1.nupkg.sha512",
     "C:\\Users\\wolfc\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\7.3.1\\swashbuckle.aspnetcore.swagger.7.3.1.nupkg.sha512",
     "C:\\Users\\wolfc\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\7.3.1\\swashbuckle.aspnetcore.swaggergen.7.3.1.nupkg.sha512",
     "C:\\Users\\wolfc\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\7.3.1\\swashbuckle.aspnetcore.swaggerui.7.3.1.nupkg.sha512",

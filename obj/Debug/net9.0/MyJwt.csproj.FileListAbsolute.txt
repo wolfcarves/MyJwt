@@ -34,3 +34,13 @@ C:\Users\wolfc\Desktop\App-Security\MyJwt\obj\Debug\net9.0\refint\MyJwt.dll
 C:\Users\wolfc\Desktop\App-Security\MyJwt\obj\Debug\net9.0\MyJwt.pdb
 C:\Users\wolfc\Desktop\App-Security\MyJwt\obj\Debug\net9.0\MyJwt.genruntimeconfig.cache
 C:\Users\wolfc\Desktop\App-Security\MyJwt\obj\Debug\net9.0\ref\MyJwt.dll
+C:\Users\wolfc\Desktop\App-Security\MyJwt\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\wolfc\Desktop\App-Security\MyJwt\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\wolfc\Desktop\App-Security\MyJwt\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\wolfc\Desktop\App-Security\MyJwt\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\wolfc\Desktop\App-Security\MyJwt\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\wolfc\Desktop\App-Security\MyJwt\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\wolfc\Desktop\App-Security\MyJwt\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wolfc\Desktop\App-Security\MyJwt\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wolfc\Desktop\App-Security\MyJwt\obj\Debug\net9.0\MyJwt.sourcelink.json
+C:\Users\wolfc\Desktop\App-Security\MyJwt\bin\Debug\net9.0\Swashbuckle.AspNetCore.Annotations.dll
