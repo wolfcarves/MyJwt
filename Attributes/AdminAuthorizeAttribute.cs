@@ -7,7 +7,7 @@ using Microsoft.IdentityModel.Tokens;
 
 namespace MyJwt.Attributes;
 
-public class UserAuthorizeAttribute : ActionFilterAttribute
+public class AdminAuthorizeAttribute : ActionFilterAttribute
 {
     public override async Task OnActionExecutionAsync(ActionExecutingContext context, ActionExecutionDelegate next)
     {
@@ -18,9 +18,15 @@ public class UserAuthorizeAttribute : ActionFilterAttribute
         }
 
         var roleClaim = claimsPrincipal.FindFirst(ClaimTypes.Role)?.Value;
-        if (roleClaim != "user")
+
+        Console.WriteLine($"roleClaim {roleClaim}");
+
+        if (roleClaim != "admin")
         {
-            context.Result = new ForbidResult();
+            context.Result = new JsonResult(new { message = "You only have admin rights" })
+            {
+                StatusCode = StatusCodes.Status403Forbidden
+            };
             return;
         }
 
